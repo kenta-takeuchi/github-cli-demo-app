@@ -1,1 +1,2 @@
-最新のリリース以降にマージされた、タイトルにhogeを含むPRはありません。
+最新のリリース以降にマージされた、タイトルにhogeを含むPR一覧:
+- [#2](https://github.com/kenta-takeuchi/github-cli-demo-app/pull/2)  動作確認用スクリプトの作成
